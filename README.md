@@ -33,7 +33,7 @@ This project demonstrates a real-time **Intrusion Detection System (IDS)** power
 
 ## 📦 Installation & Usage  
 # 1. Clone the Repository
-git clone https://github.com/your-username/IDS-AI.git
+git clone https://github.com/Bryan-Ndum/IDS-AI.git
 cd IDS-AI
 
 # 2. (Optional) Create a Virtual Environment
