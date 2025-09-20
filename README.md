@@ -1,4 +1,5 @@
 🚨 Automated Intrusion Detection System (IDS) Using AI
+
 📌 Overview
 
 This project demonstrates a real-time Intrusion Detection System (IDS) powered by machine learning to identify and classify security threats in a Software-Defined Networking (SDN) environment. Using Mininet to simulate traffic, the IDS monitors packets and raises alerts when malicious activity is detected.
